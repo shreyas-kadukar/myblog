@@ -1,0 +1,28 @@
+#img1{
+    
+    width: 200px;
+    border-radius: 50%;
+        margin-bottom: 50px;
+    margin-right: 0px;
+}
+body{
+     text-align: center;
+}
+#h11{
+    text-align: center;
+}
+#hobbies {
+  text-align: center;  
+}
+#welcome{
+    background-color: cornflowerblue;
+}
+.menu{
+    background-color: cornflowerblue;
+}
+#line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
